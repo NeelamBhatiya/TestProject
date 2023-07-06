@@ -12,6 +12,7 @@ public class NthRoot {
         }
         if (ans == m) return 1;
         return 0;
+        
     }
 
     public static int NthRoot(int n, int m) {
